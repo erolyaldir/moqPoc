@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqPOC", "MoqTest\MoqPOC.csproj", "{1334D168-2ED8-4E57-B466-8BAF12C5065A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqPOC.Test", "MoqPOC.Test\MoqPOC.Test.csproj", "{D2EC1AE6-520C-4BFD-87FA-9583B4DF1F2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1334D168-2ED8-4E57-B466-8BAF12C5065A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1334D168-2ED8-4E57-B466-8BAF12C5065A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1334D168-2ED8-4E57-B466-8BAF12C5065A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1334D168-2ED8-4E57-B466-8BAF12C5065A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2EC1AE6-520C-4BFD-87FA-9583B4DF1F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2EC1AE6-520C-4BFD-87FA-9583B4DF1F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2EC1AE6-520C-4BFD-87FA-9583B4DF1F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2EC1AE6-520C-4BFD-87FA-9583B4DF1F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B838D55A-F842-49DC-8499-E4CBF373FD65}
+	EndGlobalSection
+EndGlobal
